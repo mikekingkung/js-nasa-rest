@@ -10,10 +10,10 @@ body {
 }
 
 .container {
-  width: 500px;
+  width: 100pc;
   margin: 10px auto;
   overflow: hidden;
-  background: rgb(165, 209, 82);
+  background: rgb(0, 0 ,0);
   color: rgb(156, 20, 43);
 }
 

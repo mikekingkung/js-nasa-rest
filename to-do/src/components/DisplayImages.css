@@ -1,0 +1,8 @@
+.resource {
+    width: 100pc;
+    margin: 10px auto;
+    overflow: hidden;
+    background: rgb(0, 0 ,0);
+    padding-bottom: 30 px;
+    color: rgb(156, 20, 43);
+  }
