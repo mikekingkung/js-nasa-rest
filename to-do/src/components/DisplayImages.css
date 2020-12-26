@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800&display=swap');
+
 .resource {
     width: 100pc;
     margin: 10px auto;
@@ -5,4 +7,5 @@
     background: rgb(0, 0 ,0);
     padding-bottom: 30 px;
     color: rgb(156, 20, 43);
+    font-family:  'Orbitron', sans-serif;
   }

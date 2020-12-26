@@ -1,5 +1,6 @@
 import React, { Fragment, useEffect } from "react";
 import { useStoreState, useStoreActions } from "easy-peasy";
+import './DisplayImages.css'
 
 
 const DisplayImages = () => {
